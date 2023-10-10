@@ -124,18 +124,6 @@
   width: 212px;
   height: 80.79px;
 }
-.component-child,
-.form {
-  position: relative;
-  width: 300px;
-  height: 410px;
-}
-.component-child {
-  width: 305px;
-  height: 67px;
-  object-fit: cover;
-  mix-blend-mode: darken;
-}
 .dashboard-login-light-theme-inner {
   backdrop-filter: blur(4px);
   width: 297px;
